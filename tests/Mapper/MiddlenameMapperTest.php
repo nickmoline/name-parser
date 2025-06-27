@@ -1,11 +1,11 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace NickMoline\NameParser\Mapper;
 
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Firstname;
-use TheIconic\NameParser\Part\Middlename;
-use TheIconic\NameParser\Part\Lastname;
+use NickMoline\NameParser\Part\Salutation;
+use NickMoline\NameParser\Part\Firstname;
+use NickMoline\NameParser\Part\Middlename;
+use NickMoline\NameParser\Part\Lastname;
 
 class MiddlenameMapperTest extends AbstractMapperTest
 {

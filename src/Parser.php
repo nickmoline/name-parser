@@ -1,15 +1,15 @@
 <?php
 
-namespace TheIconic\NameParser;
+namespace NickMoline\NameParser;
 
-use TheIconic\NameParser\Language\English;
-use TheIconic\NameParser\Mapper\NicknameMapper;
-use TheIconic\NameParser\Mapper\SalutationMapper;
-use TheIconic\NameParser\Mapper\SuffixMapper;
-use TheIconic\NameParser\Mapper\InitialMapper;
-use TheIconic\NameParser\Mapper\LastnameMapper;
-use TheIconic\NameParser\Mapper\FirstnameMapper;
-use TheIconic\NameParser\Mapper\MiddlenameMapper;
+use NickMoline\NameParser\Language\English;
+use NickMoline\NameParser\Mapper\NicknameMapper;
+use NickMoline\NameParser\Mapper\SalutationMapper;
+use NickMoline\NameParser\Mapper\SuffixMapper;
+use NickMoline\NameParser\Mapper\InitialMapper;
+use NickMoline\NameParser\Mapper\LastnameMapper;
+use NickMoline\NameParser\Mapper\FirstnameMapper;
+use NickMoline\NameParser\Mapper\MiddlenameMapper;
 
 class Parser
 {

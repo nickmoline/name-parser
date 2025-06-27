@@ -1,13 +1,13 @@
 <?php
 
-namespace TheIconic\NameParser;
+namespace NickMoline\NameParser;
 
-use TheIconic\NameParser\Part\AbstractPart;
-use TheIconic\NameParser\Part\GivenNamePart;
+use NickMoline\NameParser\Part\AbstractPart;
+use NickMoline\NameParser\Part\GivenNamePart;
 
 class Name
 {
-    private const PARTS_NAMESPACE = 'TheIconic\NameParser\Part';
+    private const PARTS_NAMESPACE = 'NickMoline\NameParser\Part';
 
     /**
      * @var array the parts that make up this name

@@ -1,6 +1,6 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace NickMoline\NameParser\Mapper;
 
 use PHPUnit\Framework\TestCase;
 

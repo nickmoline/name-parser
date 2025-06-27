@@ -1,9 +1,9 @@
 <?php
 
-namespace TheIconic\NameParser;
+namespace NickMoline\NameParser;
 
 use PHPUnit\Framework\TestCase;
-use TheIconic\NameParser\Language\German;
+use NickMoline\NameParser\Language\German;
 
 class GermanParserTest extends TestCase
 {

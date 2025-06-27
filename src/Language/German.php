@@ -1,8 +1,8 @@
 <?php
 
-namespace TheIconic\NameParser\Language;
+namespace NickMoline\NameParser\Language;
 
-use TheIconic\NameParser\LanguageInterface;
+use NickMoline\NameParser\LanguageInterface;
 
 class German implements LanguageInterface
 {

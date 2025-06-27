@@ -1,6 +1,6 @@
 <?php
 
-namespace TheIconic\NameParser\Part;
+namespace NickMoline\NameParser\Part;
 
 class Suffix extends PreNormalizedPart
 {

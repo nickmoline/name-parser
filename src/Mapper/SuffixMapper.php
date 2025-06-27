@@ -1,9 +1,9 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace NickMoline\NameParser\Mapper;
 
-use TheIconic\NameParser\Part\AbstractPart;
-use TheIconic\NameParser\Part\Suffix;
+use NickMoline\NameParser\Part\AbstractPart;
+use NickMoline\NameParser\Part\Suffix;
 
 class SuffixMapper extends AbstractMapper
 {
